@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/vBq2Bfn/keyboard-mobile-mouse-stationery-white-background.jpg",
+      "title": "The Great Adventure",
+     "name" : "fk",
+      "author_img": "https://i.ibb.co/QjmD9mP/woman-with-headset-working-laptop.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": 5,
+      "hashtag": "#Adventure #Story"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/K278Qhm/top-view-finances-elements-arrangement.jpg",
+      "title": "Cooking Adventures",
+      "name" : "sk",
+      "author_img": "https://i.ibb.co/VjbRxQS/side-view-business-man-writing-agenda.jpg",
+      "posted_date": "2023-09-15",
+      "reading_time": 10,
+      "hashtag": "#Cooking #Foodie"
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/LCJPCcc/top-view-workspace-with-laptop-notebook.jpg",
+        "title": "Health and Wellness",
+        "name" : "srk",
+        "author_img": "https://i.ibb.co/1RcPc1K/mother-helping-daughter-study.jpg",
+        "posted_date": "2023-09-03",
+        "reading_time": 15,
+        "hashtag": "#Health #Wellness"
+      }
+      
+  ]
+  
